@@ -1,0 +1,14 @@
+{
+  "name": "Hex board game",
+  "version": "1.2.5",
+  "description": "A powerful Hex",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Davies",
+  "license": "None",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
